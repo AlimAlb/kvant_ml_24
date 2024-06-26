@@ -11,7 +11,7 @@
 ### :notebook_with_decorative_cover: Домашнее задание №2  ---> :hourglass_flowing_sand: дедлайн: 3 июля
 |Имя |сдана|оценки по заданиям|итог|
 | ----------- |----------- | ----------- | ----------- |
-|Евлоев Ибрагим|:hourglass_flowing_sand:|_|
+|Евлоев Ибрагим|:hourglass_flowing_sand:|_|_|
 |Чапанов Дени|:hourglass_flowing_sand:|_|_|
 |Абдурахман Таркоев|:hourglass_flowing_sand:|_|_|
 |Луиза Межидова|:hourglass_flowing_sand:|_|_|
