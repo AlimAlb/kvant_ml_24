@@ -8,7 +8,7 @@
 |Луиза Межидова|:white_check_mark:|0/1; 1/1;2/2; 2/2; 4/4|9/10|
 |Рабия Хабриева|:white_check_mark:|1/1; 1/1; 2/2; 2/2; 4/4|10/10|
 
-### :notebook_with_decorative_cover: Домашнее задание №1  ---> :hourglass_flowing_sand: дедлайн: 3 июля
+### :notebook_with_decorative_cover: Домашнее задание №2  ---> :hourglass_flowing_sand: дедлайн: 3 июля
 |Имя |сдана|оценки по заданиям|итог|
 | ----------- |----------- | ----------- | ----------- |
 |Евлоев Ибрагим|:hourglass_flowing_sand:|_|
