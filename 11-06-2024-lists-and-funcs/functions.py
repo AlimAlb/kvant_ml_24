@@ -13,6 +13,6 @@ def add(a, b):
     return res
 
 
-#print(sin(add(power(2, 5), power(3, 2))))
+print(sin(add(power(2, 5), power(3, 2))))
 
 print(power(int(input()), int(input())))
