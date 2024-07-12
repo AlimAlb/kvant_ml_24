@@ -18,6 +18,6 @@
 ### :notebook_with_decorative_cover: Домашнее задание №3  ---> :hourglass_flowing_sand: дедлайн: 18 июля
 |Имя |сдана|оценки по заданиям|итог|
 | ----------- |----------- | ----------- | ----------- |
-|Евлоев Ибрагим|:white_check_mark:|_|_|
-|Абдурахман Таркоев|:white_check_mark:|_|_|
-|Луиза Межидова|:white_check_mark:|_|_|
+|Евлоев Ибрагим|:hourglass_flowing_sand:|_|_|
+|Абдурахман Таркоев|:hourglass_flowing_sand:|_|_|
+|Луиза Межидова|:hourglass_flowing_sand:|_|_|
