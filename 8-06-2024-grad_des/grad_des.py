@@ -15,9 +15,15 @@ def gradient(func, point, delta):
     grad = np.array([dx,dy]) # numpy array
     return grad
 
-grad = gradient(func, [1,2], 0.01)
-minus_grad = -grad
-small_grad = grad*0.1
-print(grad)
-print(minus_grad)
-print(small_grad)
+point = np.array([10,3])
+step = 0.01
+epsilon = 100
+prev_point = point
+while epsilon > 0.0001:
+    prev_point = point
+    grad = gradient(func, point, 0.01)
+    point = point - grad*step 
+    print(f'point: {point}, f(x,y): {func(point[0], point[1])}')
+    epsilon = abs(func(point[0], point[1]) - func(prev_point[0], prev_point[1]))
+
+
