@@ -15,9 +15,11 @@
 |Абдурахман Таркоев|:white_check_mark:|0.5/1; 1/1; 0.2/1; 1/1; 1/1; 1/1; 1/1; 1/1; 1/1; 0.5/1; 1/1; 1/1|9.8/11|
 |Луиза Межидова|:white_check_mark:|0.5/1; 1/1; 0/1; 1/1; 1/1; 0.8/1; 0.5/1; 1/1; 0.5/1; 0/1; 0/1 |6.3/11|
 
-### :notebook_with_decorative_cover: Домашнее задание №3  ---> :hourglass_flowing_sand: дедлайн: 18 июля
+### :notebook_with_decorative_cover: Домашнее задание №4  ---> :hourglass_flowing_sand: дедлайн: 22 августа
 |Имя |сдана|оценки по заданиям|итог|
 | ----------- |----------- | ----------- | ----------- |
-|Евлоев Ибрагим|:hourglass_flowing_sand:|_|_|
-|Абдурахман Таркоев|:hourglass_flowing_sand:|_|_|
-|Луиза Межидова|:hourglass_flowing_sand:|_|_|
+|Евлоев Ибрагим|:hourglass_flowing_sand:|||
+|Луиза Межидова|:hourglass_flowing_sand:|||
+|Шариат _|:hourglass_flowing_sand:|||
+|Магомед _|:hourglass_flowing_sand:|||
+
