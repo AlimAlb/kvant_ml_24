@@ -21,5 +21,5 @@
 |Евлоев Ибрагим|:hourglass_flowing_sand:|:white_check_mark:||
 |Луиза Межидова|:hourglass_flowing_sand:|:white_check_mark:||
 |Шариат Алиева|:hourglass_flowing_sand:|:white_check_mark:||
-|Магомед |:hourglass_flowing_sand:|:white_check_mark:||
+|Магомед Добриев|:hourglass_flowing_sand:|:white_check_mark:||
 
