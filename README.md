@@ -18,8 +18,8 @@
 ### :notebook_with_decorative_cover: Домашнее задание №4  ---> :hourglass_flowing_sand: дедлайн: 22 августа
 |Имя |сдана|оценки по заданиям|итог|
 | ----------- |----------- | ----------- | ----------- |
-|Евлоев Ибрагим|:hourglass_flowing_sand:|||
-|Луиза Межидова|:hourglass_flowing_sand:|||
-|Шариат _|:hourglass_flowing_sand:|||
-|Магомед _|:hourglass_flowing_sand:|||
+|Евлоев Ибрагим|:hourglass_flowing_sand:|:white_check_mark:||
+|Луиза Межидова|:hourglass_flowing_sand:|:white_check_mark:||
+|Шариат _|:hourglass_flowing_sand:|:white_check_mark:||
+|Магомед _|:hourglass_flowing_sand:|:white_check_mark:||
 
